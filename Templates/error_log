@@ -1,0 +1,9 @@
+[07-Mar-2011 23:52:21] PHP Warning:  fopen(stats/log.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/africama/public_html/stats/hit.inc on line 24
+[07-Mar-2011 23:52:21] PHP Warning:  fwrite(): supplied argument is not a valid stream resource in /home/africama/public_html/stats/hit.inc on line 25
+[07-Mar-2011 23:52:21] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/africama/public_html/stats/hit.inc on line 26
+[08-Mar-2011 02:07:06] PHP Warning:  fopen(stats/log.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/africama/public_html/stats/hit.inc on line 24
+[08-Mar-2011 02:07:06] PHP Warning:  fwrite(): supplied argument is not a valid stream resource in /home/africama/public_html/stats/hit.inc on line 25
+[08-Mar-2011 02:07:06] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/africama/public_html/stats/hit.inc on line 26
+[08-Mar-2011 07:43:19] PHP Warning:  fopen(stats/log.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/africama/public_html/stats/hit.inc on line 24
+[08-Mar-2011 07:43:19] PHP Warning:  fwrite(): supplied argument is not a valid stream resource in /home/africama/public_html/stats/hit.inc on line 25
+[08-Mar-2011 07:43:19] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/africama/public_html/stats/hit.inc on line 26
